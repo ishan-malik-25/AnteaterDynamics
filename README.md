@@ -8,10 +8,15 @@ and will include any files, simulations, documents, or other relevant informatio
 Team members:
 
 Rogel Aguilar - Mechanical Engineering Major, Software Subteam - https://www.linkedin.com/in/rogelagui/
+
 Diego Avila - Mechanical Engineering Major, Software Subteam
+
 Lucas Cardona - Mechanical Engineering Major, Mechanical Subteam - https://www.linkedin.com/in/lucas-cardona/
+
 Noah Castillo - Mechanical Engineering Major, Electrical Subteam - https://www.linkedin.com/in/noahscastillo/
+
 Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.linkedin.com/in/ishanmalik1/
+
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
 
