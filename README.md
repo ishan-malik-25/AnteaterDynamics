@@ -20,3 +20,6 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
 
+![image](https://github.com/user-attachments/assets/662b1808-5397-41b4-819f-1123b2ad2507)
+Preliminary Linkage
+
