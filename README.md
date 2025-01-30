@@ -6,6 +6,7 @@ further develop robotics systems. This page will document our team's progress th
 and will include any files, simulations, documents, or other relevant information pertaining to our project.
 
 Team members:
+
 Rogel Aguilar - Mechanical Engineering Major, Software Subteam - https://www.linkedin.com/in/rogelagui/
 Diego Avila - Mechanical Engineering Major, Software Subteam
 Lucas Cardona - Mechanical Engineering Major, Mechanical Subteam - https://www.linkedin.com/in/lucas-cardona/
