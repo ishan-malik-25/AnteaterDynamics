@@ -19,12 +19,6 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
-
-![image](https://github.com/user-attachments/assets/662b1808-5397-41b4-819f-1123b2ad2507)
-
-Preliminary Linkage
-
-
 UPDATE 2/4/2025
 
 Progress has been made on the preliminary CAD! See the attached photo. The assembly now uses all ROBOTIS actuators and frames.
@@ -43,6 +37,14 @@ Robotic Arm RevB
 ![image](https://github.com/user-attachments/assets/de68abb7-bbc5-42ca-8475-54eb8ce5b5d1)
 
 Overall Arm Reach at Current Revision
+
+1/29/2025
+
+![image](https://github.com/user-attachments/assets/662b1808-5397-41b4-819f-1123b2ad2507)
+
+Preliminary Linkage
+
+
 
 
 
