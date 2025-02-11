@@ -29,7 +29,7 @@ servos used. Previously, all of the servos were from the XM line, but we had to 
 XC, XM, and XL lines to balance our cost and functionality requirements. We also changed the last servo in the linkage from two
 separate servos to a single 2-axis XC-430 servo to save both cost and weight at the end of the linkage. An updated CAD model can
 be seen below. The pink servos are XC-430, the green servo is XM-430, the orange is XL-430, and the light blue is the 2-axis 2XL-430.
-Additionally, we have uploaded a copy of our project requirements presentation to the site to be viewed!
+Additionally, we have uploaded a copy of our project problem definition presentation to the site to be viewed!
 
 ![image](https://github.com/user-attachments/assets/4f914cf7-e202-4953-8d55-91a6a3bd2d4a)
 
