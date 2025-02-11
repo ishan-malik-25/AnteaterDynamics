@@ -19,6 +19,19 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
+UPDATE 2/10/2025
+
+More progress has been made on the CAD (RevC) as we are finalizing the selection of the Dynamixel X servos being used in our arm. 
+We were having trouble balancing the 7DOF functionality desire with the budget we are targeting and as such have changed some of the
+servos used. Previously, all of the servos were from the XM line, but we had to change this to incorporating servos from the 
+XC, XM, and XL lines to balance our cost and functionality requirements. We also changed the last servo in the linkage from two
+separate servos to a single 2-axis XC-430 servo to save both cost and weight at the end of the linkage. An updated CAD model can
+be seen below. The pink servos are XC-430, the green servo is XM-430, the orange is XL-430, and the light blue is the 2-axis 2XL-430.
+Additionally, we have uploaded a copy of our project requirements presentation to the site to be viewed!
+
+![image](https://github.com/user-attachments/assets/4f914cf7-e202-4953-8d55-91a6a3bd2d4a)
+
+
 UPDATE 2/4/2025
 
 Progress has been made on the CAD! See the attached photos. The assembly now uses all ROBOTIS actuators and frames.
