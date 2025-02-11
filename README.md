@@ -21,7 +21,7 @@ Tomas Mejia - Mechanical Engineering Major, Electrical Subteam
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-UPDATE 2/10/2025
+UPDATE 2/10/2025 - Ishan
 
 More progress has been made on the CAD (RevC) as we are finalizing the selection of the Dynamixel X servos being used in our arm. 
 We were having trouble balancing the 7DOF functionality desire with the budget we are targeting and as such have changed some of the
@@ -36,7 +36,7 @@ Additionally, we have uploaded a copy of our project problem definition presenta
 Robotic Arm RevC
 
 ----------------------------------------------------------------------------------------------------------------------------------
-UPDATE 2/4/2025
+UPDATE 2/4/2025 - Ishan
 
 Progress has been made on the CAD! See the attached photos. The assembly now uses all ROBOTIS actuators and frames.
 The servos in the assembly are not specified as they will be in the final assembly as calculations need to be done to ensure
