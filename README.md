@@ -34,6 +34,7 @@ Additionally, we have uploaded a copy of our project requirements presentation t
 ![image](https://github.com/user-attachments/assets/4f914cf7-e202-4953-8d55-91a6a3bd2d4a)
 
 Robotic Arm RevC
+
 ----------------------------------------------------------------------------------------------------------------------------------
 UPDATE 2/4/2025
 
