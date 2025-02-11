@@ -32,8 +32,11 @@ be seen below. The pink servos are XC-430, the green servo is XM-430, the orange
 Additionally, we have uploaded a copy of our project problem definition presentation to the site to be viewed!
 
 ![image](https://github.com/user-attachments/assets/4f914cf7-e202-4953-8d55-91a6a3bd2d4a)
-
 Robotic Arm RevC
+![image](https://github.com/user-attachments/assets/797dac44-ca3c-487c-af4b-aa5b8782c256)
+Dynamixel X Servo Decision Matrix
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 UPDATE 2/4/2025 - Ishan
