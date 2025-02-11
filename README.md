@@ -19,6 +19,8 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 UPDATE 2/10/2025
 
 More progress has been made on the CAD (RevC) as we are finalizing the selection of the Dynamixel X servos being used in our arm. 
@@ -31,7 +33,8 @@ Additionally, we have uploaded a copy of our project requirements presentation t
 
 ![image](https://github.com/user-attachments/assets/4f914cf7-e202-4953-8d55-91a6a3bd2d4a)
 
-
+Robotic Arm RevC
+----------------------------------------------------------------------------------------------------------------------------------
 UPDATE 2/4/2025
 
 Progress has been made on the CAD! See the attached photos. The assembly now uses all ROBOTIS actuators and frames.
@@ -51,6 +54,8 @@ Robotic Arm RevB
 ![image](https://github.com/user-attachments/assets/de68abb7-bbc5-42ca-8475-54eb8ce5b5d1)
 
 Overall Arm Reach at Current Revision
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 1/29/2025
 
