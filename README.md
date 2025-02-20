@@ -21,9 +21,9 @@ Tomas Mejia - Mechanical Engineering Major, Electrical Subteam
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Update 2/20/2025 - Ishan
+Update 2/20/2025 - Noah
 
-FEA on our custom end effector brackets has been completed. We were discussing manufacturing materials for custom components, and had considered either 1060 Aluminum or ABS plastic. The project intention is to design the robot for at home manufacturing as well as mass production, and thus want to emphasize additive manufacturing technologies. However, we were concerned that certain connecting components may need a stronger aluminum material to handle the loads. However, the simulation results show that a simple ABS plastic is structuraly sound even under a 2X scaled load. In the simulation, the bracket assembly is subjected to a 12 N force acting on the four bracket screw holes. Using aluminum, the maximum displacement is only 0.00063 mm, and for ABS the maximum displacement is 0.022955 mm. Such a small displacement, even using ABS, has proven that using ABS plastic is sufficient for our custom bracket.
+FEA on our custom end effector brackets has been completed. We were discussing manufacturing materials for custom components and had considered either 1060 Aluminum or ABS plastic. The project's intention is to design the robot for at-home manufacturing as well as mass production, and thus want to emphasize additive manufacturing technologies. However, we were concerned that certain connecting components may need a stronger aluminum material to handle the loads. However, the simulation results show that a simple ABS plastic is structurally sound even under a 2X scaled load. In the simulation, the bracket assembly is subjected to a 12 N force acting on the four bracket screw holes. Using aluminum, the maximum displacement is only 0.00063 mm, and for ABS the maximum displacement is 0.022955 mm. Such a small displacement, even using ABS, has proven that using ABS plastic is sufficient for our custom bracket.
 
 ![image](https://github.com/user-attachments/assets/60c3b263-fe6d-4e85-9054-56020f516c4a)
 
