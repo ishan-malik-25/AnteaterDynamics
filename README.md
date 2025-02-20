@@ -23,6 +23,18 @@ Tomas Mejia - Mechanical Engineering Major, Electrical Subteam
 
 Update 2/20/2025 - Ishan
 
+FEA on our custom end effector brackets has been completed. We were discussing manufacturing materials for custom components, and had considered either 1060 Aluminum or ABS plastic. The project intention is to design the robot for at home manufacturing as well as mass production, and thus want to emphasize additive manufacturing technologies. However, we were concerned that certain connecting components may need a stronger aluminum material to handle the loads. However, the simulation results show that a simple ABS plastic is structuraly sound even under a 2X scaled load. In the simulation, the bracket assembly is subjected to a 12 N force acting on the four bracket screw holes. Using aluminum, the maximum displacement is only 0.00063 mm, and for ABS the maximum displacement is 0.022955 mm. Such a small displacement, even using ABS, has proven that using ABS plastic is sufficient for our custom bracket.
+
+![image](https://github.com/user-attachments/assets/60c3b263-fe6d-4e85-9054-56020f516c4a)
+Displacement Results of Bracket Assembly using ABS
+
+![image](https://github.com/user-attachments/assets/fdde9bb3-f93c-4a47-a646-2ab9a32d5dcc)
+Displacement Results of Bracket Assembly using 1060 Aluminum
+
+
+
+Update 2/20/2025 - Ishan
+
 More progress has been made on the CAD, mainly on the base design - changing it from a simple circular plate to a more realistic
 final design. See the picture below. Also finite element analysis (FEA) work has begun to optomize the shape of the linkage arms to
 resist bending, I have also attached a few images of FEA results for the original linkage arm cross section seen in the previous
