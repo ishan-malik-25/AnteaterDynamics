@@ -21,6 +21,24 @@ Tomas Mejia - Mechanical Engineering Major, Electrical Subteam
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+Update 2/20/2025 - Ishan
+
+More progress has been made on the CAD, mainly on the base design - changing it from a simple circular plate to a more realistic
+final design. See the picture below. Also finite element analysis (FEA) work has begun to optomize the shape of the linkage arms to
+resist bending, I have also attached a few images of FEA results for the original linkage arm cross section seen in the previous
+CAD models as well as one for an H-Beam. More shape iterations are currently in progress.
+
+![image](https://github.com/user-attachments/assets/08d850e3-d082-4446-bb39-771a2fc63d10)
+New Base first Revision - Packaging of RB-150 and Base Servo, Holes for Bolting/Clamping
+
+![image](https://github.com/user-attachments/assets/1798d9d4-c846-47d8-9939-0e955c9f081e)
+Original Cross Section FEA Displacement with 2N Point Force Applied
+
+![image](https://github.com/user-attachments/assets/c0dae856-4a53-4b73-aecc-f96dd9aa1642)
+H-Beam FEA Displacement Results with 2N Point Force Applied 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 UPDATE 2/10/2025 - Ishan
 
 More progress has been made on the CAD (RevC) as we are finalizing the selection of the Dynamixel X servos being used in our arm. 
