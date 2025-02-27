@@ -20,6 +20,13 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Update 2/27/2025
+
+This week was focused on each of our team members completing an individual component analysis for a part in the robotic arm.
+All of these analysis reports are uploaded to this repository to be viewed. These analyses helped justify the design decisions
+made in our engineering design process.
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 Update 2/20/2025 - Noah
 
