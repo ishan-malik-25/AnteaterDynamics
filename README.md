@@ -26,6 +26,9 @@ This week was focused on each of our team members completing an individual compo
 All of these analysis reports are uploaded to this repository to be viewed. These analyses helped justify the design decisions
 made in our engineering design process.
 
+Additionally, we made our project poster to be shown at our school's Winter Design Review on March 13th. This poster
+summarizes the project and has also been uploaded to this repository.
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Update 2/20/2025 - Noah
