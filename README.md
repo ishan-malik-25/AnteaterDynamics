@@ -45,6 +45,7 @@ system as a whole looks more polished, with shrouds and covers for cables and se
 Open Manipulator X platform.
 
 CAD assembly files of both the proof of concept assemblies will be uploaded to this repository as well as the updated BOMs for these parts.
+We have also included a copy of the preliminary testing plan for our proof of concept, which may evolve as we start assembling components.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Update 2/27/2025
