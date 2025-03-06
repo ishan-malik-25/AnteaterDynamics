@@ -29,8 +29,11 @@ necessary for assembly. We have also obtained all of the actuators and frames fr
 all of the necessary components to assemble our proof of concept in the next coming week.
 
 First will be the end effector with the load cells, where focus will be calibrating the load cells and
-gaining an understanding of how the torque applied to the servo on the end effector translates to a certain value of gripping force. All
-parts for the end efffector have been manufactured and are assembled, once the load cells are calibrated we can begin testing this subsystem.
+gaining an understanding of how the torque applied to the servo on the end effector translates to a certain value of gripping force. All parts for the end efffector have been manufactured and are assembled, once the load cells are calibrated we can begin testing this subsystem.
+
+![image](https://github.com/user-attachments/assets/e1be57f4-ba42-4512-953b-e409a29aee1d)
+
+End Effector parts that were manufactured.
 
 Second is the arm linkage, which is simplified into a 4-DOF arm without an end effector, so we can focus on understanding how 
 various servo inputs translate into positioning the arm into a desired orientation. Our focus with the linkage arm will be on
