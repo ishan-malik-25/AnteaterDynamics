@@ -20,6 +20,33 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Update 3/6/2025
+
+This week has been focused on developing a proof of concept to be displayed at our university's winter design review on March 13th. 
+For this design review, mainly for the sake of simplicity, and since our software is still being developed, we are splitting the arm assembly
+into two separate parts. Both of these components now have updated CAD models and bill of materials that include all of the fasteners
+necessary for assembly. We have also obtained all of the actuators and frames from ROBOTIS, and are in the process of 3D printing
+all of the necessary components to assemble our proof of concept in the next coming week.
+
+First will be the end effector with the load cells, where focus will be calibrating the load cells and
+gaining an understanding of how the torque applied to the servo on the end effector translates to a certain value of gripping force.
+
+Second is the arm linkage, which is simplified into a 4-DOF arm without an end effector, so we can focus on understanding how 
+various servo inputs translate into positioning the arm into a desired orientation. Our focus with the linkage arm will be on
+repeatability of achieving desired positions, and will include attaching masses to the end of the linkage to analyze how
+adding mass affects the accuracy and repeatability of the arm's movement. 
+
+![image](https://github.com/user-attachments/assets/1224bcf8-1750-441b-bcb7-43ab0829c4ce)
+
+Arm Linkage to be Shown at Design Review, Simplified into 4DOF with Fasteners
+
+As the project progresses into our next academic quarter, the focus will be on fully integrating the entire assembly and making the
+system as a whole looks more polished, with shrouds and covers for cables and servo joins similar to those implemented on the 
+Open Manipulator X platform.
+
+CAD assembly files of both the proof of concept assemblies will be uploaded to this repository as well as the updated BOMs for these parts.
+
+----------------------------------------------------------------------------------------------------------------------------------
 Update 2/27/2025
 
 This week was focused on each of our team members completing an individual component analysis for a part in the robotic arm.
