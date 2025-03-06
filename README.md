@@ -20,7 +20,7 @@ Ishan Malik - Mechanical Engineering Major, Mechanical Subteam - https://www.lin
 Tomas Mejia - Mechanical Engineering Major, Electrical Subteam 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Update 3/6/2025
+Update 3/6/2025 - Mechanical Subteam
 
 This week has been focused on developing a proof of concept to be displayed at our university's winter design review on March 13th. 
 For this design review, mainly for the sake of simplicity, and since our software is still being developed, we are splitting the arm assembly
